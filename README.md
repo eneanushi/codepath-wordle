@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+      Something I could think of getting the application better is creating levels for the game. So the user can start from simple words to more complex, and also a reset button if we want to start it from
+      the beggining. (Note: This are suggestions, they are not implemented into the source code).
 
 ## Video Walkthrough
 
@@ -39,7 +41,7 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
-Programming with a new programming language has it's own difficulties starting from a new syntax. Part 9 was the most challenging one for me. Also trying to figure out how closers work was another challenge I faced during this project.
+Codingwith a new programming language has it's own difficulties starting from a new syntax. Part 9 was the most challenging one for me. Also trying to figure out how closers work was another challenge I faced during this project.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
