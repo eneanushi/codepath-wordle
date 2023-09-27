@@ -62,7 +62,7 @@ Codingwith a new programming language has it's own difficulties starting from a 
 
 Submitted by: **Enea Nushi**
 
-**Name of your app** is an app that In each round, will be given a secret word to guess and a limited number of chances to do. With each guess, we are going to receive clues that indicate which letters are included in the word and where they're located. We are going to use these clues to guess the secret word before running out of attempts. User can change the number of letters per row, can change the numbers of rows on the board, can select a new themed set to pull the goal word and can select alien wordle causing the goal word to change after each guess. 
+**Wordle App** is an app that In each round, will be given a secret word to guess and a limited number of chances to do. With each guess, we are going to receive clues that indicate which letters are included in the word and where they're located. We are going to use these clues to guess the secret word before running out of attempts. User can change the number of letters per row, can change the numbers of rows on the board, can select a new themed set to pull the goal word and can select alien wordle causing the goal word to change after each guess. 
 
 
 Time spent: **2.5** hours spent in total
